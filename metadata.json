@@ -1,0 +1,6 @@
+{
+  "name": "Ovidhan",
+  "description": "An offline-first Bengali-English bilingual dictionary with voice search, mnemonic tricks, audio pronunciations, biometric lock, and end-to-end local data encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
